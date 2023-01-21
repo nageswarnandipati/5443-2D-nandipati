@@ -1,1 +1,0 @@
-Venkata Nageswar Reddy Nandipati
