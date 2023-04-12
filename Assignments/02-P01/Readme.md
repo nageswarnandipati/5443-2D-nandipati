@@ -1,16 +1,16 @@
 
 
 ## Tetris
-### Revanth Rajaboina
+### Venkata Nageswar Reddy Nandipati, Revanth Rajaboina
 ### Description:
-In this project we designed a simple code for tetris game using two classes which are tetrisblock and tetris.Tetris block class helps to produce the blocks and Tetris has the main game loop.
+In this project we designed a simple code for tetris game using two classes which are tetrisblock and tetris. Tetris block class helps to produce the blocks and Tetris has the main game loop.
 
 
 ### Files
 
 |   #   | File                                              | Description                                        |
 | :---: | ------------------------------------------------- | -------------------------------------------------- |
-|   1   |[Main.py](/Assignments/02-P01/Readme.md)         | Main driver of my project that launches game.      |
+|   1   |[Main.py](/Assignments/02-P01/Readme.md)           | Main driver of my project that launches game.      |
 |   2   |                                                   |           |
 |   3   |  |  |
 
