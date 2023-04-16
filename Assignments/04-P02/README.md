@@ -1,1 +1,1 @@
-Change the directory address before executing
+Change the directories of resources before executing
