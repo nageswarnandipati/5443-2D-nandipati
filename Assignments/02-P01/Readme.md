@@ -7,6 +7,9 @@ This code is an implementation of the classic game Tetris using Pygame, a popula
 
 
 The code starts by importing the required libraries, pygame and random. Pygame is a library for writing video games in Python, and random is used to generate random numbers for various game features.
+- Make sure you install library pygame using `pip install pygame`
+
+    - `python main.py`
 
 ### Files
 
@@ -16,8 +19,5 @@ The code starts by importing the required libraries, pygame and random. Pygame i
 |   2   |                                                   |           |
 |   3   |  |  |
 
-### Instructions
 
-- Make sure you install library pygame using `pip install pygame`
 
-    - `python main.py`
