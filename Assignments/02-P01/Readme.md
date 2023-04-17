@@ -3,8 +3,10 @@
 ## Tetris
 ### Venkata Nageswar Reddy Nandipati, Revanth Rajaboina
 ### Description:
-In this project we designed a simple code for tetris game using two classes which are tetrisblock and tetris. Tetris block class helps to produce the blocks and Tetris has the main game loop.
+This code is an implementation of the classic game Tetris using Pygame, a popular Python library for game development. Tetris is a tile-matching puzzle game where players manipulate falling blocks to create complete rows, which are then cleared from the game board.
 
+
+The code starts by importing the required libraries, pygame and random. Pygame is a library for writing video games in Python, and random is used to generate random numbers for various game features.
 
 ### Files
 
