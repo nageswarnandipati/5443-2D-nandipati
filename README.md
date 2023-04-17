@@ -7,4 +7,4 @@
 
 
 #### Description:
-Collection of Games from 2D Python Games class
+Collection of Games from Python 2D Games class
