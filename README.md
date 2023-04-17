@@ -5,7 +5,8 @@
 #### Repo: 5443-2D-nandipati
 #### email: vnandipati0614@my.msutexas.edu / nageswarreddynandipati@gmail.com
 #### Image: 
-![ANJ_77911](https://user-images.githubusercontent.com/56446908/232604649-18a1ffb1-7268-47f6-9fac-91dc72cd3dac.jpg)
+![WhatsApp Image 2023-01-25 at 09 27 03](https://user-images.githubusercontent.com/56446908/232604963-7b24bb78-a0ee-4107-a126-3581303b4d03.jpg)
+
 
 
 #### Avatar: 
