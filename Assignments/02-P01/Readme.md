@@ -15,7 +15,7 @@ Class MySprite, which inherits from pygame.sprite.Sprite. This class represents 
 
 Block class represents the individual blocks that make up the Tetris game pieces. This class has properties like x and y coordinates, block types, colors, and rotations. It also has methods to initialize the block, get the current Tetris block, rotate the block, and check for collisions with other blocks on the game field.
 
-
+Tetris class represents the main game logic. It has properties like level, score, state, field, height, width, block, and others. The Tetris class has methods to initialize the game field, create a new block, check for collisions, remove lines, move the block, update the game state, and draw the game field and sprites on the screen.
 
 ### Files
 
