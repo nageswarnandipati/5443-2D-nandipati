@@ -14,3 +14,4 @@ The game runs at a frame rate of 60 frames per second (FPS) and defines the velo
 | :---: | ------------------------------------------------- | -------------------------------------------------- |
 |   1   |[Main.py](/Assignments/04-P02/Readme.md)           | Main driver of my project that launches game.      |
 |   2   |[Assets](/Assignments/04-P02/Assets) | Assets required for executing the program like Images, Audio etc., |
+ 
