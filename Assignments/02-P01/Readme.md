@@ -27,7 +27,5 @@ The code starts by importing the required libraries, pygame and random. Pygame i
 
 - Tetris class represents the main game logic. It has properties like level, score, state, field, height, width, block, and others. The Tetris class has methods to initialize the game field, create a new block, check for collisions, remove lines, move the block, update the game state, and draw the game field and sprites on the screen.
 
-
-
-
+## Don't forget to change the directory before execution!
 
