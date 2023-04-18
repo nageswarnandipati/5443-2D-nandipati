@@ -20,7 +20,7 @@ The code starts by importing the required libraries, pygame and random. Pygame i
 |   2   |[Screenshots](/https://github.com/nageswarnandipati/5443-2D-nandipati/tree/main/Assignments/02-P01/Screenshots) | Screenshots of game window |
 
     
-Class MySprite, which was inherited from pygame.sprite.Sprite. This class represents the main character sprite in the game and loads a series of images to be used as animation frames for the character's walking animation.
+  Class MySprite, which was inherited from pygame.sprite.Sprite. This class represents the main character sprite in the game and loads a series of images to be used as animation frames for the character's walking animation.
 
 Block class represents the individual blocks that make up the Tetris game pieces. This class has properties like x and y coordinates, block types, colors, and rotations. It also has methods to initialize the block, get the current Tetris block, rotate the block, and check for collisions with other blocks on the game field.
 
