@@ -1,1 +1,4 @@
-Change the directories of resources before executing
+# Space Fight!
+
+## Venkata Nageswar Reddy Nandipati, Thivya Tanneedi
+
