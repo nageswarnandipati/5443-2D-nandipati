@@ -17,7 +17,7 @@ The code starts by importing the required libraries, pygame and random. Pygame i
 |   #   | File                                              | Description                                        |
 | :---: | ------------------------------------------------- | -------------------------------------------------- |
 |   1   |[Main.py](/Assignments/02-P01/Readme.md)           | Main driver of my project that launches game.      |
-|   2   |[Screenshots](/https://github.com/nageswarnandipati/5443-2D-nandipati/tree/main/Assignments/02-P01/Screenshots) | Screenshots of game window |
+|   2   |[Screenshots](/Assignments/02-P01/Screenshots) | Screenshots of game window |
   
 
 [Main.py](/Assignments/02-P01/Readme.md) has three classes: Tetris, Block, MySprite. 
